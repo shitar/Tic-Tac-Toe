@@ -1,0 +1,11 @@
+img {
+    border-radius: 50%;
+    border-color:#000000;
+    border-style:groove;
+  }
+
+  table {
+    border-radius: 0px ;
+    border-collapse: collapse ;
+    border: none ;
+  }
